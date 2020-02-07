@@ -1,0 +1,28 @@
+.card1.card__container{
+  .card{
+  .card1__container{
+      position: relative;
+      .westernmost{
+        position: absolute;
+        top: 0;
+        left: 30%;
+      }
+      .easternmost{
+            position: absolute;
+            top: 155%;
+            right: 0%;
+          }
+      .southernmost{
+        position: absolute;
+        top: 292%;
+        left: 30%;
+      }
+      .westernmost{
+        position: absolute;
+        left: 0%;
+        top: 155%;
+      }
+    }
+
+  }
+}

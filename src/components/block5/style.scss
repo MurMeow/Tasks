@@ -1,0 +1,25 @@
+.card5 .card__container{
+  position: relative;
+  .card{
+    .block5__result{
+      background-color: white;
+      width: 90%;
+      height: 10%;
+    }
+    p.block5__title{
+      margin-top: 5px;
+    }
+    p{
+      font-size: small;
+      margin: auto;
+    }
+    .block5__buttonSave{
+      position: absolute;
+    }
+    .result{
+      width: 248px;
+      height: 35px;
+    }
+  }
+
+}
